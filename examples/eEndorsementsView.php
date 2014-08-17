@@ -9,6 +9,8 @@ $settings = array(
 
 $ee = new eEndorsementsAPIExchange($settings);
 
-$result = $ee->makeRequest('http://eendorsements.com/api/users/view');
+$username = "abcstaffing";
+
+$result = $ee->makeRequest('http://eendorsements.com/api/endorsements/view/' . $username);
 
 echo $result;
