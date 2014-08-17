@@ -1,2 +1,0 @@
-[17-Aug-2014 18:10:59 America/Chicago] PHP Warning:  require_once(../eEndorsementsAPIExchange.php): failed to open stream: No such file or directory in /home/dalrym/public_html/eendorsements-php-library/examples/eEndorsementsView.php on line 3
-[17-Aug-2014 18:10:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../eEndorsementsAPIExchange.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dalrym/public_html/eendorsements-php-library/examples/eEndorsementsView.php on line 3
